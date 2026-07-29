@@ -1,0 +1,21 @@
+{
+  "selected_assets": [
+    "NFLX",
+    "META",
+    "INTC",
+    "SP500"
+  ],
+  "thresholds": {
+    "NFLX": 0.92,
+    "META": 0.95,
+    "INTC": 0.92,
+    "SP500": 0.92
+  },
+  "common_start": "2021-07-28",
+  "common_end": "2026-03-03",
+  "n_observations": 1153,
+  "backtest_start": "2024-03-04",
+  "backtest_end": "2026-03-03",
+  "backtest_window": 600,
+  "backtest_forecasts": 501
+}
